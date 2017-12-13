@@ -1,8 +1,8 @@
 # pos
 
-> A Vue.js project
+> 一个快餐店的POS系统（不完整）
 
-## Build Setup
+## 如何运行？
 
 ``` bash
 # install dependencies
@@ -18,4 +18,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
