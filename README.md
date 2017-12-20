@@ -1,4 +1,4 @@
-# pos
+# POS
 
 > A Vue.js project
 
